@@ -1,0 +1,25 @@
+{
+  "name": "opencv-js",
+  "version": "1.0.0",
+  "description": "OpenCV.js library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sundowatch/opencvjs.git"
+  },
+  "keywords": [
+    "opencv",
+    "js",
+    "computer",
+    "vision"
+  ],
+  "author": "OpenCV Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sundowatch/opencvjs/issues"
+  },
+  "homepage": "https://github.com/sundowatch/opencvjs#readme"
+}
